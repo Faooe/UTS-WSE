@@ -187,7 +187,7 @@ Menampilkan informasi tentang API.
 5. DELETE `/api/books/:id`  
 6. GET `/api/info`
 
-*(Disertakan sebagai bukti hasil uji di laporan UTS)*
+*(Ada di file FotoPostman)*
 
 ---
 
